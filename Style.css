@@ -1,0 +1,39 @@
+body{
+	background-color: #9b93f5;
+	font-family: 'josefin Sans', Sans-serif;
+}
+img{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+.radio-inline{
+	margin: 0px 40px 20px 0px;
+	cursor: pointer;
+}
+
+label{
+	color: #000;
+}
+
+#text{
+	height: 40px;
+	border-radius: 5px;
+	padding-left: 10px;
+	font-size: 14px;
+	border: none;
+	width: 100%;
+	color: #000;
+}
+
+#message{
+	outline: none;
+	border: none;
+	padding: 10px 0px 0px 15px;
+	font-size: 16px;
+	color:#000;
+	border-radius: 5px;
+	width: 100%
+}
+
